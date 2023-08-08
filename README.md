@@ -1,5 +1,6 @@
 # mp1_sharesnalyzer
 #PROJECT SUMMARY
+
 Mini project as part of 3 months bootcamp at Institute of Data (Singapore). 
 
 Objective: 
@@ -13,12 +14,14 @@ Objective:
 2. Code files and Dataset.csv as below:
 
 code files
+
 1. Data preparation/pulling (including web scraping) on SP500 index : s&p500_prepdata.ipynb
 2. Data query_organize on SP500 index : s&p500_sql.ipynb
 3. Exploratory data analysis and visualisation on SP500 index : sp500_eda.ipynb
 4. Exploratory data analysis and visualisation on Big Tech stocks : bigtech_eda(stock_return).ipynb
 
 Dataset.csv
+
 Raw dataset: 
 sp500_stocksprice2019_23.csv
 sp500_name_info.csv
