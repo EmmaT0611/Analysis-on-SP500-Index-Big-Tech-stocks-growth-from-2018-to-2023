@@ -1,19 +1,19 @@
 # mp1_sharesnalyzer
 #PROJECT SUMMARY
 
-Mini project as part of 3 months bootcamp at Institute of Data (Singapore). 
+Mini project as part of 3 months Data Science & AI bootcamp at Institute of Data (Singapore). 
 
 Objective: 
-1. Identify top sectors S&P500 index
+1. Identify top sectors within S&P500 index
 2. Determine the growth of top sectors over 5 years and the rate of return
 3. Investigate Big Tech stocks performance over time
 
 #STEPS TO REPRODUCE CODE
 
-1. Refer README.txt for libraries needed
+1. Refer README.txt for libraries and environment setup needed
 2. Code files and Dataset.csv as below:
 
-code files
+Code files
 
 1. Data preparation/pulling (including web scraping) on SP500 index : s&p500_prepdata.ipynb
 2. Data query_organize on SP500 index : s&p500_sql.ipynb
@@ -23,17 +23,17 @@ code files
 Dataset.csv
 
 Raw dataset: 
-sp500_stocksprice2019_23.csv
+SP500_STOCKSPRICE2019_23.csv (split to 3 parts due to 25MB cap on Github) 
 sp500_name_info.csv
 
-Semi-processed dataset (share price full by sector):
+Semi-processed dataset (shares price of top sectors):
 sp500_consumerdprice.csv
 sp500_financialprice.csv
 sp500_healthcprice.csv
 sp500_industrialprice.csv
 sp500_ITprice.csv
 
-Processed data (mean of daily returns according to industry): 
+Processed data (mean of daily returns according to sectors): 
 msp500_consumerd.csv
 msp500_financials.csv
 msp500_healthc.csv
