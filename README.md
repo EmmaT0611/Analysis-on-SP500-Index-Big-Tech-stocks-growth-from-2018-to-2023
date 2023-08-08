@@ -4,7 +4,7 @@
 Mini project as part of 3 months bootcamp at Institute of Data (Singapore). 
 
 Objective: 
-1. Identify top sectors contributing to S&P500 performance
+1. Identify top sectors S&P500 index
 2. Determine the growth of top sectors over 5 years and the rate of return
 3. Investigate Big Tech stocks performance over time
 
