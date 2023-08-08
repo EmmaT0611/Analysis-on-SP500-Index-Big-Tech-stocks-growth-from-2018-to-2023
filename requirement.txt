@@ -1,1 +1,30 @@
-write your code here
+Libraries needed: 
+
+Data extraction/pull: 
+
+import bs4 as bs
+import requests
+import yfinance as yf
+import datetime
+import pandas as pd
+
+
+Data query/organise: 
+
+import sqlite3
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+EDA SP500:
+
+import matplotlib.pyplot as plt
+import pandas as pd
+from matplotlib.dates import YearLocator
+
+EDA BigTech:
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import yfinance as yf
