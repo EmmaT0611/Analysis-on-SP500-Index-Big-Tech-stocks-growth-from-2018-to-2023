@@ -25,22 +25,4 @@ Dataset.csv
 Raw dataset: 
 SP500_STOCKSPRICE2019_23.csv (split to 3 parts due to 25MB cap on Github) 
 sp500_name_info.csv
-
-Semi-processed dataset (shares price of top sectors):
-sp500_consumerdprice.csv
-sp500_financialprice.csv
-sp500_healthcprice.csv
-sp500_industrialprice.csv
-sp500_ITprice.csv
-
-Processed data (mean of daily returns according to sectors): 
-msp500_consumerd.csv
-msp500_financials.csv
-msp500_healthc.csv
-msp500_industrial.csv
-msp500_infotech.csv
-
-Cleaned dataset to reproduce charts: 
-sp500_sectorcount.csv
-sp500_sectormean.csv
 bigtech_stock.csv
