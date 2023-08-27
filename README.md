@@ -10,7 +10,7 @@ Objective:
 
 #STEPS TO REPRODUCE CODE
 
-1. Refer README.txt for libraries and environment setup needed
+1. Refer REQUIREMENT.txt for libraries and environment setup needed
 2. Code files and Dataset.csv as below:
 
 Code files
